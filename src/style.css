@@ -44,10 +44,10 @@ body {
 }
 
 .primary-link:hover {
-    opacity: 0.3;
+    opacity: 0.7;
     color: var(--secondary-color);
 }
 .secondary-link:hover {
-    opacity: 0.3;
+    opacity: 0.7;
     color: var(--primary-color);
 }

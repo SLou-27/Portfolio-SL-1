@@ -66,3 +66,12 @@ body {
     opacity: 0.7;
     color: var(--primary-color);
 }
+
+.contactlink {
+    padding: 10px;
+    border-radius: 25px;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    box-shadow: var(--box-shadow);
+    text-decoration: none;
+}

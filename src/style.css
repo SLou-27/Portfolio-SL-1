@@ -45,6 +45,7 @@ body {
 .scroll-up {
     display: block;
     margin: auto;
+    margin-top: 20px;
     padding: 20px;
     border-radius: 15px;
     color: var(--primary-color);

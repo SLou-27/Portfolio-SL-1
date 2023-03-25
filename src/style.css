@@ -103,3 +103,6 @@ a:hover {
 footer {
     color: var(--secondary-color);
 }
+footer a {
+    color: var(--secondary-color);
+}

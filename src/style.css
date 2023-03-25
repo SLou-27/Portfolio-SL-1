@@ -106,3 +106,6 @@ footer {
 footer a {
     color: var(--secondary-color);
 }
+footer a:hover {
+    text-decoration: underline;
+}

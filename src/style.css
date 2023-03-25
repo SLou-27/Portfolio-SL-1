@@ -102,6 +102,7 @@ a:hover {
 
 footer {
     color: var(--secondary-color);
+    margin-top: 20px;
 }
 footer a {
     color: var(--secondary-color);

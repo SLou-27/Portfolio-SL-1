@@ -77,6 +77,7 @@ body {
     color: var(--secondary-color);
     text-decoration: none;
     text-align: center;
+    box-shadow: var(--box-shadow);
 }
 .contactlink:hover {
     opacity: 0.7;
